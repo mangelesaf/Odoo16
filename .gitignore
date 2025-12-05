@@ -31,6 +31,6 @@ venc/
 env/
 .env
 
-
-
+# Ignramos el archivo abc.txt
+abc.txt
 
